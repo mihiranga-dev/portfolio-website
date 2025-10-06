@@ -77,3 +77,12 @@ nav a:hover {
 .btn:hover {
     background: #0088cc;
 }
+
+.main-content {
+    padding: 2rem 0;
+}
+
+.main-content h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
